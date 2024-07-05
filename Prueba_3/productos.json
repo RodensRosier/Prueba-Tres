@@ -1,0 +1,78 @@
+productos = [
+{
+        "nombreProducto":"Café Americano",
+        "valorProducto": 2000,
+        "iva": 19
+    },
+    {
+        "nombreProducto":"Té Chai",
+        "valorProducto": 2500,
+        "iva": 19
+    },
+    {
+        "nombreProducto":"Croissant",
+        "valorProducto": 3250,
+        "iva": 19
+    },
+    {
+        "nombreProducto":"Jugo Naranja",
+        "valorProducto": 7890,
+        "iva": 19
+    },
+    {
+        "nombreProducto":"Panini de Pavo y Queso",
+        "valorProducto": 3219,
+        "iva": 19
+    },
+    {
+        "nombreProducto":"Pastel de Zanahoria",
+        "valorProducto": 9652,
+        "iva": 19
+    },
+    {
+        "nombreProducto":"Espresso Doble",
+        "valorProducto": 5321,
+        "iva": 19
+    },
+    {
+        "nombreProducto":"Batido de Frutas",
+        "valorProducto": 4321,
+        "iva": 19
+    },
+    {
+        "nombreProducto":"Muffin",
+        "valorProducto": 5432,
+        "iva": 19
+    },
+    {
+        "nombreProducto":"Ensalada",
+        "valorProducto": 7890,
+        "iva": 19
+    },
+    {
+        "nombreProducto":"Chocolate Caliente",
+        "valorProducto": 4332,
+        "iva": 19
+    },
+    {
+        "nombreProducto":"Tarta de Frambuesa",
+        "valorProducto": ,
+        "iva": 19
+    },
+    {
+        "nombreProducto":"Sándwich de Huevo",
+        "valorProducto": 9745,
+        "iva": 19
+    },
+    {
+        "nombreProducto":"Galletas de Avena",
+        "valorProducto": 6789,
+        "iva": 19
+    },
+    {
+        "nombreProducto":"Frappé de Caramelo",
+        "valorProducto": 8954,
+        "iva": 19
+    }
+    
+]
